@@ -1,9 +1,6 @@
 homepage: "https://onetagai.com/?ref=gtm"
 documentation: "https://github.com/fengyiqicoder/onetag-gtm-template#readme"
 versions:
-  # MAINTAINER: replace the sha below with the full 40-character SHA of the commit
-  # that contains this template.tpl (git rev-parse HEAD after the first commit),
-  # commit that change, then submit the repo to the Gallery.
-  # For each later release, add a new entry at the top with the new sha.
-  - sha: "REPLACE_WITH_COMMIT_SHA_0000000000000000"
+  # For each later release, add a new entry at the top with the full sha of the commit that changed template.tpl.
+  - sha: 72aab38563ddb7e1918620a3c60cf15f1e33ff23
     changeNotes: Initial release.
