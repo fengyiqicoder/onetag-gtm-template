@@ -27,7 +27,7 @@ Run this once. It needs an email address and no browser.
 curl -X POST https://onetagai.com/api/signup -H "Content-Type: application/json" -d '{"email":"you@example.com"}'
 ```
 
-The key is a site key. It is public by design, like an analytics ID, and it ends up in the page. The free plan is 1,000,000 tokens a month with a hard cap. When it runs out the box says so, and no bill can appear.
+The key is a site key. It is public by design, like an analytics ID, and it ends up in the page. The free plan is 1,000,000 tokens, one time, no monthly reset with a hard cap. When it runs out the box says so, and no bill can appear.
 
 To try the box before you sign up, use the demo key `ot_demo000000000000000000000`. It answers on `localhost` only.
 
